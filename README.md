@@ -26,7 +26,7 @@ bash run.sh
 
 ### Result
 
-![1714053098235](D:\2东南陈海燕\WDS\3毕业论文\2024-chy-212070-Conf\ner_result.png)
+![1714053098235](ner_result.png)
 
 ## Conf-EL
 
@@ -62,4 +62,4 @@ python run_model_keyword.py \
 
 ### Result
 
-![1714053055613](D:\2东南陈海燕\WDS\3毕业论文\2024-chy-212070-Conf\el_result.png)
+![1714053055613](el_result.png)
