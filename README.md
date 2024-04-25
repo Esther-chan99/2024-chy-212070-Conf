@@ -34,7 +34,7 @@ bash run.sh
 
 Conf-EL（**Con**trastive Learning Based **F**ew-Shot **E**ntity **L**inking, Conf-EL）：
 
-![el](D:/2%E4%B8%9C%E5%8D%97%E9%99%88%E6%B5%B7%E7%87%95/WDS/3%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/2024-chy-212070-Conf/4el_2step_1.jpg)
+![el](4el_2step_1.jpg)
 
 ### Requirements
 
